@@ -1,0 +1,46 @@
+@options
+@packages
+--class-path
+'D:/swe/2023-02-15-14/ip-geolocator/target/classes;C:/Users/Robert/.m2/repository/io/github/openfeign/feign-gson/12.1/feign-gson-12.1.jar;C:/Users/Robert/.m2/repository/io/github/openfeign/feign-core/12.1/feign-core-12.1.jar;C:/Users/Robert/.m2/repository/com/google/code/gson/gson/2.10/gson-2.10.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'D:/swe/2023-02-15-14/ip-geolocator/src/main/java;D:/swe/2023-02-15-14/ip-geolocator/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/swe/2023-02-15-14/ip-geolocator/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ip-geolocator 1.0 API'
+-use
+-version
+-windowtitle
+'ip-geolocator 1.0 API'
+geolocator
+D:\swe\2023-02-15-14\ip-geolocator\src\main\java = 1676468866918
+D:\swe\2023-02-15-14\ip-geolocator\target\generated-sources\annotations = 1677025017466
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\allclasses-index.html = 1677025127742
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\allpackages-index.html = 1677025127749
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\copy.svg = 1677025127810
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\element-list = 1677025127641
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\help-doc.html = 1677025127801
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\index-all.html = 1677025127782
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\index.html = 1677025127786
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\jquery-ui.overrides.css = 1677025127876
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\member-search-index.js = 1677025127757
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\module-search-index.js = 1677025127751
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\overview-tree.html = 1677025127717
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\package-search-index.js = 1677025127753
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\script.js = 1677025127808
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\search.js = 1677025127815
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\stylesheet.css = 1677025127806
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\tag-search-index.js = 1677025127758
+D:\swe\2023-02-15-14\ip-geolocator\target\site\apidocs\type-search-index.js = 1677025127755
